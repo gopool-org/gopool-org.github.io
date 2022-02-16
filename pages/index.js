@@ -42,6 +42,8 @@ export default function Home() {
             <p>
               <code>stratum+ssl://e.gopool.org:55551</code> (蚂蚁) <br/>
               <code>stratum+ssl://e.gopool.org:56661</code> (蚂蚁SSL) <br/>
+              <code>stratum+ssl://e.gopool.org:55552</code> (2Miners) <br/>
+              <code>stratum+ssl://e.gopool.org:56662</code> (2Miners SSL) <br/>
               <code>stratum+ssl://e.gopool.org:55555</code> (E池) <br/>
               <code>stratum+ssl://e.gopool.org:56665</code> (E池SSL) <br/>
               <code>stratum+ssl://e.gopool.org:55556</code> (鱼池)    <br/>
