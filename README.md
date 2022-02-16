@@ -44,3 +44,4 @@ https://gopool-org.netlify.com
 ## Deploy with Docker
 
 https://steveholgado.com/nginx-for-nextjs/
+        
