@@ -37,14 +37,19 @@ export default function Home() {
           </div>
           <div className={styles.card}>
             <a href='https://gopool.org/ethereum' className={styles.grid}>
-              <h2>Ethereum &rarr;</h2>
+              <h2>ETH矿池中转 &rarr;</h2>
             </a>
             <p>
-              <code>stratum+ssl://e.gopool.org:56661</code> (Antpool) <br/>
-              <code>stratum+ssl://e.gopool.org:56665</code> (Ethermine) <br/>
-              <code>stratum+ssl://e.gopool.org:56666</code> (F2pool)    <br/>
-              <code>stratum+ssl://e.gopool.org:56667</code> (Flexpool)  <br/>
-              <code>stratum+ssl://e.gopool.org:56668</code> (Hive)      <br/>
+              <code>stratum+ssl://e.gopool.org:55551</code> (蚂蚁) <br/>
+              <code>stratum+ssl://e.gopool.org:56661</code> (蚂蚁SSL) <br/>
+              <code>stratum+ssl://e.gopool.org:55555</code> (E池) <br/>
+              <code>stratum+ssl://e.gopool.org:56665</code> (E池SSL) <br/>
+              <code>stratum+ssl://e.gopool.org:55556</code> (鱼池)    <br/>
+              <code>stratum+ssl://e.gopool.org:56666</code> (鱼池SSL)    <br/>
+              <code>stratum+ssl://e.gopool.org:55557</code> (Flexpool)  <br/>
+              <code>stratum+ssl://e.gopool.org:56667</code> (Flexpool SSL)  <br/>
+              <code>stratum+ssl://e.gopool.org:55558</code> (Hive)      <br/>
+              <code>stratum+ssl://e.gopool.org:56668</code> (Hive SSL)      <br/>
               <br/>
               <small>
                 50ms repsonse time. Stable network connection. 1% tax fee. SSL only.
