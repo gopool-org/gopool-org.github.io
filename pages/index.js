@@ -40,6 +40,7 @@ export default function Home() {
               <h2>Ethereum &rarr;</h2>
             </a>
             <p>
+              <code>stratum+ssl://e.gopool.org:56661</code> (Antpool) <br/>
               <code>stratum+ssl://e.gopool.org:56665</code> (Ethermine) <br/>
               <code>stratum+ssl://e.gopool.org:56666</code> (F2pool)    <br/>
               <code>stratum+ssl://e.gopool.org:56667</code> (Flexpool)  <br/>

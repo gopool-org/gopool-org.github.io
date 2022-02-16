@@ -40,3 +40,7 @@ https://blog.gregrickaby.com/article/nextjs-github-pages
 ## Deploy Netlify
 
 https://gopool-org.netlify.com
+
+## Deploy with Docker
+
+https://steveholgado.com/nginx-for-nextjs/
