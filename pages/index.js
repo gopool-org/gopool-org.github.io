@@ -37,7 +37,7 @@ export default function Home() {
           </div>
           <div className={styles.card}>
             <a href='https://gopool.org/ethereum' className={styles.grid}>
-              <h2>ETH矿池中转 &rarr;</h2>
+              <h2>ETH矿池中转 (针对中国网络优化) &rarr;</h2>
             </a>
             <p>
               <code>tcp://e.gopool.org:55551</code> (蚂蚁) <br/>
@@ -54,9 +54,9 @@ export default function Home() {
               <code>ssl://e.gopool.org:56668</code> (Hive SSL)      <br/>
               <br/>
               <small>
-                50ms repsonse time. Stable network connection. 1% tax fee. SSL only.
+                低延迟，通常低于 50ms 响应。商业级 BGP 网络。 1% 良心抽水。
                 <br />
-                Tax Address:
+                抽水地址:
                 <br />
                 <a href="https://polygonscan.com/address/0x0Ca027a64BB581F49444540d627b26849ea74186" alt="tax-address-eth" target='_blank' rel='noopener noreferrer'>0x0Ca027a64BB581F49444540d627b26849ea74186</a><br/>
               </small>
