@@ -43,7 +43,9 @@ export default function Home() {
               <code>tcp://e.gopool.org:55551</code> (蚂蚁) <br/>
               <code>ssl://e.gopool.org:56661</code> (蚂蚁SSL) <br/>
               <code>tcp://e.gopool.org:55552</code> (2Miners) <br/>
-              <code>ssl://e.gopool.org:56662</code> (2Miners SSL) <br/>
+              <code>ssl://e.gopool.org:56662</code> (2Miners SSL) <br />
+              <code>tcp://e.gopool.org:55553</code> (币印) <br />
+              <code>ssl://e.gopool.org:56663</code> (币印 SSL) <br/>
               <code>tcp://e.gopool.org:55555</code> (E池) <br/>
               <code>ssl://e.gopool.org:56665</code> (E池SSL) <br/>
               <code>tcp://e.gopool.org:55556</code> (鱼池)    <br/>
