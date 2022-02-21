@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Script from 'next/script';
 import styles from '../styles/Home.module.css';
 
 export default function Home() {
@@ -11,6 +12,16 @@ export default function Home() {
           content="Gopool.org is the world's most flexible mining pool that provides an easy-to-use way to mine your favorite coins."
         />
         <link rel='icon' href='/favicon.ico' />
+
+        <Script
+          strategy="afterInteractive"
+          id="mcjs"
+          dangerouslySetInnerHTML={{
+            __html: `
+            !function(c,h,i,m,p){m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/e2d5163b2ac8144191cd0fd36/0d317263a6dd052d165422c3c.js");
+            `,
+          }}
+        />
       </Head>
 
       <main className={styles.main}>
@@ -57,6 +68,7 @@ export default function Home() {
               <br/>
               <small>
                 低延迟，通常低于 50ms 响应。商业级 BGP 网络。 1% 良心抽水。
+                推荐使用SSL端口，TCP端口会在近期停掉。
                 <br />
                 抽水地址:
                 <br />
