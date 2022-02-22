@@ -67,8 +67,8 @@ export default function Home() {
               <code>ssl://e.gopool.org:56668</code> (Hive SSL)      <br/>
               <br/>
               <small>
-                低延迟，通常低于 50ms 响应。商业级 BGP 网络。 1% 良心抽水。
-                推荐使用SSL端口，TCP端口会在近期停掉。
+                低延迟，通常低于 50ms 响应。商业级 BGP 网络。 1% 良心抽水。<br/>
+                推荐使用SSL端口，TCP端口会在近期停掉。有问题可以[ <a href="https://github.com/gopool-org/e/issues" alt="tax-address-eth" target='_blank' rel='noopener noreferrer'>工单系统</a> ]提出。<br/>
                 <br />
                 抽水地址:
                 <br />
