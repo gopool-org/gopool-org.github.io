@@ -51,19 +51,12 @@ export default function Home() {
               <h2>ETH矿池中转 (针对中国网络优化) &rarr;</h2>
             </a>
             <p>
-              <code>tcp://e.gopool.org:55551</code> (蚂蚁) <br/>
               <code>ssl://e.gopool.org:56661</code> (蚂蚁SSL) <br/>
-              <code>tcp://e.gopool.org:55552</code> (2Miners) <br/>
               <code>ssl://e.gopool.org:56662</code> (2Miners SSL) <br />
-              <code>tcp://e.gopool.org:55553</code> (币印) <br />
               <code>ssl://e.gopool.org:56663</code> (币印 SSL) <br/>
-              <code>tcp://e.gopool.org:55555</code> (E池) <br/>
               <code>ssl://e.gopool.org:56665</code> (E池SSL) <br/>
-              <code>tcp://e.gopool.org:55556</code> (鱼池)    <br/>
               <code>ssl://e.gopool.org:56666</code> (鱼池SSL)    <br/>
-              <code>tcp://e.gopool.org:55557</code> (Flexpool)  <br/>
               <code>ssl://e.gopool.org:56667</code> (Flexpool SSL)  <br/>
-              <code>tcp://e.gopool.org:55558</code> (Hive)      <br/>
               <code>ssl://e.gopool.org:56668</code> (Hive SSL)      <br/>
               <br/>
               <small>
