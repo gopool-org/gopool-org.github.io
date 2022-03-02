@@ -78,7 +78,7 @@ export default function Home() {
             </a>
             <p>
               <code>
-                节点 (请自行 ping 出 ip, 目前仅开放 16111 端口供同步): <br />
+                节点 (IP可能会有调整, 目前仅开放 16111 端口供同步): <br />
                 * ping kaspa.gopool.org  <br />
                 <br />
                 通过命令添加 <br />
