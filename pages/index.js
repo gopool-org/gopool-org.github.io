@@ -64,7 +64,7 @@ export default function Home() {
                 低延迟，通常份额接受低于 50ms 响应。商业级 BGP 网络。 1% 良心抽水。<br />
                 新增 eth1.gopool.org / eth2.gopool.org 两个镜像节点。<br />
                 只推荐使用 SSL 端口，TCP 端口已全部停掉。有问题可以[ <a href="https://github.com/gopool-org/e/issues" alt="tax-address-eth" target='_blank' rel='noopener noreferrer'>工单系统</a> ]提出。<br/>
-                TG: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a>
+                电报群: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a>
                 <br />
                 捐赠及抽水地址:
                 <br />
@@ -90,7 +90,7 @@ export default function Home() {
               <br />
               <small>
                 同步节点，全免费。 <br />
-                TG: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a><br />
+                电报群: <a href="https://t.me/kaspa_chinese">https://t.me/kaspa_chinese</a><br />
                 捐赠地址:<br/>
                 kaspa:qr79zte4kr3tfw6a0ue7necmngxaepnp2zkzwh46nw9zjm9svpu064pa7nang
               </small>
@@ -106,7 +106,7 @@ export default function Home() {
             </code>
             <br />
               <small>DAO of Collaborative mining pool. <br />
-                TG: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a>
+              电报群: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a>
               </small>
           </p>
         </div>
