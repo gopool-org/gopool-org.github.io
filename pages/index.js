@@ -26,7 +26,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href='https://gopool.org'>Gopool.org!</a>
+          <a href='https://gopool.org'>Gopool.org</a>
         </h1>
 
         <p className={styles.description}></p>
@@ -37,11 +37,11 @@ export default function Home() {
               <h2>Alephium &rarr;</h2>
             </a>
             <p>
-              <code>Under construction.</code>
+              <code>正在建设中</code>
               <br/>
               <small>
                 Support Gate.io ALPH wallet address and 4 addresses group. Pay every hour, 1% pool fee, 0.5 ALPH minimal. We cover trasaction fee.<br/>
-                Donation:<br/>
+                捐赠地址:<br/>
                 <a href="https://explorer.alephium.org/#/addresses/16uC2zJBkujTGNyD3BWiQ6hBZriQrPdvvQq2WYUSTkaBq" alt="donation-address-alph" target='_blank' rel='noopener noreferrer'>16uC2zJBkujTGNyD3BWiQ6hBZriQrPdvvQq2WYUSTkaBq</a><br/>
               </small>
             </p>
@@ -51,14 +51,14 @@ export default function Home() {
               <h2>ETH矿池中转 (针对中国网络优化) &rarr;</h2>
             </a>
             <p>
-              <code>ssl://e.gopool.org:56661</code> (蚂蚁SSL) <br/>
+              <code>ssl://e.gopool.org:56661</code> (蚂蚁 SSL) <br/>
               <code>ssl://e.gopool.org:56662</code> (2Miners SSL) <br />
               <code>ssl://e.gopool.org:56663</code> (币印 SSL) <br/>
               <code>ssl://e.gopool.org:56664</code> (币安 SSL) <br/>
-              <code>ssl://e.gopool.org:56665</code> (E池SSL) <br/>
-              <code>ssl://e.gopool.org:56666</code> (鱼池SSL)    <br/>
-              <code>ssl://e.gopool.org:56667</code> (Flexpool SSL)  <br/>
-              <code>ssl://e.gopool.org:56668</code> (Hive SSL)      <br/>
+              <code>ssl://e.gopool.org:56665</code> (E池 SSL) <br/>
+              <code>ssl://e.gopool.org:56666</code> (鱼池 SSL) <br/>
+              <code>ssl://e.gopool.org:56667</code> (Flexpool SSL) <br/>
+              <code>ssl://e.gopool.org:56668</code> (Hive SSL) <br/>
               <br/>
               <small>
                 低延迟，通常份额接受低于 50ms 响应。商业级 BGP 网络。 1% 良心抽水。<br />
@@ -66,7 +66,7 @@ export default function Home() {
                 只推荐使用 SSL 端口，TCP 端口已全部停掉。有问题可以[ <a href="https://github.com/gopool-org/e/issues" alt="tax-address-eth" target='_blank' rel='noopener noreferrer'>工单系统</a> ]提出。<br/>
                 TG: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a>
                 <br />
-                抽水地址:
+                捐赠及抽水地址:
                 <br />
                 <a href="https://polygonscan.com/address/0x0Ca027a64BB581F49444540d627b26849ea74186" alt="tax-address-eth" target='_blank' rel='noopener noreferrer'>0x0Ca027a64BB581F49444540d627b26849ea74186</a><br/>
               </small>
@@ -78,13 +78,20 @@ export default function Home() {
             </a>
             <p>
               <code>
-                Under construction.
+                节点 (请自行 ping 出 ip, 目前仅开放 16111 端口供同步): <br />
+                * ping kaspa.gopool.org  <br />
+                <br />
+                通过命令添加 <br />
+                * kaspactl addpeer 47.243.173.241 <br />
+                <br /> 
+                也可在 kaspad.conf 中添加如下信息 <br />
+                 * addpeer=47.243.173.241 <br />
               </code>
               <br />
               <small>
-                Full nodes, no fee, have fun. <br />
+                同步节点，全免费。 <br />
                 TG: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a><br />
-                Donation:<br/>
+                捐赠地址:<br/>
                 kaspa:qr79zte4kr3tfw6a0ue7necmngxaepnp2zkzwh46nw9zjm9svpu064pa7nang
               </small>
             </p>
@@ -98,7 +105,9 @@ export default function Home() {
                Under construction.
             </code>
             <br />
-            <small>DAO of Collaborative mining pool. TG: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a></small>
+              <small>DAO of Collaborative mining pool. <br />
+                TG: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a>
+              </small>
           </p>
         </div>
          
@@ -111,7 +120,7 @@ export default function Home() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Powered by Gopool.org
+          by Gopool.org
         </a>
       </footer>
     </div>
