@@ -93,7 +93,7 @@ export default function Home() {
               </code>
               <br />
               <small>
-                同步节点，全免费。 <br />
+                同步节点, 全免费。 kaspa3 由 Gopool.org 提供, kaspa4/5/6 由 Kaspa 中文社区众筹群捐赠。更多捐赠请联系老毛。<br />
                 电报群: <a href="https://t.me/kaspa_chinese">https://t.me/kaspa_chinese</a><br />
                 捐赠地址:<br/>
                 kaspa:qr79zte4kr3tfw6a0ue7necmngxaepnp2zkzwh46nw9zjm9svpu064pa7nang
