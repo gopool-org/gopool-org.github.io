@@ -78,13 +78,17 @@ export default function Home() {
             </a>
             <p>
               <code>
-                节点 (IP可能会有调整, 目前仅开放 16111 端口供同步): <br />
+                节点 (IP 可能会有调整, 所以请自行 ping 出, 目前仅开放 16111 端口供同步): <br />
                 * ping kaspa.gopool.org  <br />
+                * ping kaspa3.gopool.org  <br />
+                * ping kaspa4.gopool.org  <br />
+                * ping kaspa5.gopool.org  <br />
+                * ping kaspa6.gopool.org  <br />
                 <br />
-                通过命令添加 <br />
+                通过命令添加: <br />
                 * kaspactl addpeer 47.243.173.241 <br />
                 <br /> 
-                也可在 kaspad.conf 中添加如下信息 <br />
+                也可在 kaspad.conf 中添加: <br />
                  * addpeer=47.243.173.241 <br />
               </code>
               <br />
