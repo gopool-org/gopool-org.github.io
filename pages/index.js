@@ -85,7 +85,7 @@ export default function Home() {
                 * ping kaspa5.gopool.org  <br />
                 * ping kaspa6.gopool.org  <br />
                 <br />
-                通过命令添加: <br />
+                得到的 ip 地址可以通过已下命令添加: <br />
                 * kaspactl addpeer 47.243.173.241 <br />
                 <br /> 
                 也可在 kaspad.conf 中添加: <br />
