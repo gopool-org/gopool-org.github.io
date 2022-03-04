@@ -37,7 +37,7 @@ export default function Home() {
               <h2>Alephium &rarr;</h2>
             </a>
             <p>
-              <code>正在建设中</code>
+              <code>正在建设中...</code>
               <br/>
               <small>
                 Support Gate.io ALPH wallet address and 4 addresses group. Pay every hour, 1% pool fee, 0.5 ALPH minimal. We cover trasaction fee.<br/>
@@ -84,6 +84,7 @@ export default function Home() {
                 * ping kaspa4.gopool.org  <br />
                 * ping kaspa5.gopool.org  <br />
                 * ping kaspa6.gopool.org  <br />
+                * ping kaspa7.gopool.org  <br />
                 <br />
                 得到的 ip 地址可以通过已下命令添加: <br />
                 * kaspactl addpeer 47.243.173.241 <br />
@@ -106,7 +107,7 @@ export default function Home() {
           </a>
           <p>
             <code>
-               Under construction.
+               正在建设中...
             </code>
             <br />
               <small>DAO of Collaborative mining pool. <br />
