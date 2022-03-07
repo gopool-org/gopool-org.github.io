@@ -61,9 +61,9 @@ export default function Home() {
               <code>ssl://e.gopool.org:56668</code> (Hive SSL) <br/>
               <br/>
               <small>
-                低延迟，通常份额接受低于 50ms 响应。商业级 BGP 网络。 1% 良心抽水。<br />
+                低延迟, 通常份额接受低于 50ms 响应。商业级 BGP 网络。 1% 良心抽水。<br />
                 新增 eth1.gopool.org / eth2.gopool.org 两个镜像节点。<br />
-                只推荐使用 SSL 端口，TCP 端口已全部停掉。有问题可以[ <a href="https://github.com/gopool-org/e/issues" alt="tax-address-eth" target='_blank' rel='noopener noreferrer'>工单系统</a> ]提出。<br/>
+                只推荐使用 SSL 端口, TCP 端口已全部停掉。有问题可以[ <a href="https://github.com/gopool-org/e/issues" alt="tax-address-eth" target='_blank' rel='noopener noreferrer'>工单系统</a> ]提出。<br/>
                 电报群: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a>
                 <br />
                 捐赠及抽水地址:
@@ -77,7 +77,7 @@ export default function Home() {
               <h2>Kaspa &rarr;</h2>
             </a>
             <p>
-              <code>
+              <code  className={styles.small}>
                 节点 (IP 可能会有调整, 所以请自行 ping 出, 目前仅开放 16111 端口供同步): <br />
                 * ping kaspa4.gopool.org  <br />
                 * ping kaspa5.gopool.org  <br />
@@ -96,8 +96,11 @@ export default function Home() {
               <small>
                 同步节点, 全免费。 kaspa4/5/6/7/8/9 由 Kaspa 中文社区众筹群捐赠。更多捐赠请联系老毛。<br />
                 电报群: <a href="https://t.me/kaspa_chinese">https://t.me/kaspa_chinese</a><br />
-                捐赠地址:<br/>
-                kaspa:qr79zte4kr3tfw6a0ue7necmngxaepnp2zkzwh46nw9zjm9svpu064pa7nang
+                不和谐: <a href="https://discord.gg/dMrzVdcdZc">https://discord.gg/dMrzVdcdZc</a><br />
+                亚洲节点捐赠地址:<br/>
+                kaspa:qr79zte4kr3tfw6a0ue7necmngxaepnp2zkzwh46nw9zjm9svpu064pa7nang <br />
+                Kaspa团队捐赠地址:<br />
+                kaspa:precqv0krj3r6uyyfa36ga7s0u9jct0v4wg8ctsfde2gkrsgwgw8jgxfzfc98
               </small>
             </p>
           </div>
