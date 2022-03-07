@@ -79,22 +79,22 @@ export default function Home() {
             <p>
               <code>
                 节点 (IP 可能会有调整, 所以请自行 ping 出, 目前仅开放 16111 端口供同步): <br />
-                * ping kaspa.gopool.org  <br />
-                * ping kaspa3.gopool.org  <br />
                 * ping kaspa4.gopool.org  <br />
                 * ping kaspa5.gopool.org  <br />
                 * ping kaspa6.gopool.org  <br />
                 * ping kaspa7.gopool.org  <br />
+                * ping kaspa8.gopool.org  <br />
+                * ping kaspa9.gopool.org  <br />
                 <br />
                 得到的 ip 地址可以通过已下命令添加: <br />
-                * kaspactl addpeer 47.243.173.241 <br />
+                * kaspactl addpeer 47.243.24.131 <br />
                 <br /> 
                 也可在 kaspad.conf 中添加: <br />
-                 * addpeer=47.243.173.241 <br />
+                 * addpeer=47.243.24.131 <br />
               </code>
               <br />
               <small>
-                同步节点, 全免费。 kaspa3 由 Gopool.org 提供, kaspa4/5/6 由 Kaspa 中文社区众筹群捐赠。更多捐赠请联系老毛。<br />
+                同步节点, 全免费。 kaspa4/5/6/7/8/9 由 Kaspa 中文社区众筹群捐赠。更多捐赠请联系老毛。<br />
                 电报群: <a href="https://t.me/kaspa_chinese">https://t.me/kaspa_chinese</a><br />
                 捐赠地址:<br/>
                 kaspa:qr79zte4kr3tfw6a0ue7necmngxaepnp2zkzwh46nw9zjm9svpu064pa7nang
