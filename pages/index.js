@@ -33,7 +33,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <div className={styles.card}>
-            <a href='https://gopool.org/alephium' className={styles.grid}>
+            <a href='#' className={styles.grid}>
               <h2>Alephium &rarr;</h2>
             </a>
             <p>
@@ -47,7 +47,7 @@ export default function Home() {
             </p>
           </div>
           <div className={styles.card}>
-            <a href='https://gopool.org/ethereum' className={styles.grid}>
+            <a href='#' className={styles.grid}>
               <h2>ETH矿池中转 (针对中国网络优化) &rarr;</h2>
             </a>
             <p>
@@ -73,7 +73,28 @@ export default function Home() {
             </p>
           </div>
           <div className={styles.card}>
-            <a href='https://gopool.org/kaspa' className={styles.grid}>
+            <a href='#' className={styles.grid}>
+              <h2>ETC矿池中转 (针对中国网络优化) &rarr;</h2>
+            </a>
+            <p>
+              <code>ssl://e.gopool.org:46665</code> (E池 SSL) <br/>
+              <code>ssl://e.gopool.org:46666</code> (鱼池 SSL) <br/>
+              <code>ssl://e.gopool.org:46667</code> (Flexpool SSL) <br/>
+              <br/>
+              <small>
+                低延迟, 通常份额接受低于 50ms 响应。商业级 BGP 网络。 1% 良心抽水。<br />
+                etc1.gopool.org / etc2.gopool.org 两个镜像节点。<br />
+                只推荐使用 SSL 端口, TCP 端口已全部停掉。有问题可以[ <a href="https://github.com/gopool-org/e/issues" alt="tax-address-eth" target='_blank' rel='noopener noreferrer'>工单系统</a> ]提出。<br/>
+                电报群: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a>
+                <br />
+                捐赠及抽水地址:
+                <br />
+                <a href="https://etcblockexplorer.com/address/0x0Ca027a64BB581F49444540d627b26849ea74186" alt="tax-address-eth" target='_blank' rel='noopener noreferrer'>0x0Ca027a64BB581F49444540d627b26849ea74186</a><br/>
+              </small>
+            </p>
+          </div>
+          <div className={styles.card}>
+            <a href='#' className={styles.grid}>
               <h2>Kaspa &rarr;</h2>
             </a>
             <p>
@@ -105,7 +126,7 @@ export default function Home() {
             </p>
           </div>
           <div className={styles.card}>
-          <a href='https://gopool.org/dao' className={styles.grid}>
+          <a href='#' className={styles.grid}>
             <h2>Gopool.org DAO &rarr;</h2>
           </a>
           <p>
