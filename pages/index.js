@@ -62,7 +62,7 @@ export default function Home() {
               <br/>
               <small>
                 低延迟, 通常份额接受低于 50ms 响应。商业级 BGP 网络。 1% 良心抽水。<br />
-                备用地址: eth1.gopool.org / eth2.gopool.org <br />
+                备用地址: eth1.gopool.org / eth2.gopool.org / eth3.gopool.org <br />
                 只推荐使用 SSL 端口, TCP 端口已全部停掉。有问题可以[ <a href="https://github.com/gopool-org/e/issues" alt="tax-address-eth" target='_blank' rel='noopener noreferrer'>工单系统</a> ]提出。<br/>
                 电报群: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a>
                 <br />
@@ -83,7 +83,7 @@ export default function Home() {
               <br/>
               <small>
                 低延迟, 通常份额接受低于 50ms 响应。商业级 BGP 网络。 1% 良心抽水。<br />
-                备用地址: etc1.gopool.org / etc2.gopool.org <br />
+                备用地址: etc1.gopool.org / etc2.gopool.org / etc3.gopool.org <br />
                 只推荐使用 SSL 端口, TCP 端口已全部停掉。有问题可以[ <a href="https://github.com/gopool-org/e/issues" alt="tax-address-eth" target='_blank' rel='noopener noreferrer'>工单系统</a> ]提出。<br/>
                 电报群: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a>
                 <br />
