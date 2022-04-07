@@ -135,7 +135,8 @@ export default function Home() {
             </code>
             <br />
               <small>DAO of Collaborative mining pool. <br />
-              电报群: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a>
+              电报群: <a href="https://t.me/gopool_org">https://t.me/gopool_org</a><br />
+              不和谐: <a href="https://discord.gg/4zZTSs6eTu">https://discord.gg/4zZTSs6eTu</a>
               </small>
           </p>
         </div>
